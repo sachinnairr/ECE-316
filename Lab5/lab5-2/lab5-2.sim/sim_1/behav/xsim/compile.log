@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/happa2222/316Labs/lab5-2/lab5-2.srcs/sources_1/new/CLA_4bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLA_4bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/happa2222/316Labs/lab5-2/lab5-2.srcs/sources_1/new/register_logic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_logic
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/happa2222/316Labs/lab5-2/lab5-2.srcs/sim_1/new/CLA_4bits_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLA_4bits_tb
+WARNING: [VRFC 10-2096] empty statement in sequential block [C:/Users/happa2222/316Labs/lab5-2/lab5-2.srcs/sim_1/new/CLA_4bits_tb.v:22]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/happa2222/316Labs/lab5-2/lab5-2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

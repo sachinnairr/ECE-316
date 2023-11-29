@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/happa2222/316Labs/lab5-1/lab5-1.srcs/sources_1/new/RCA_4bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RCA_4bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/happa2222/316Labs/lab5-1/lab5-1.srcs/sources_1/new/full_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module full_adder
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'Cout' is not allowed [C:/Users/happa2222/316Labs/lab5-1/lab5-1.srcs/sources_1/new/full_adder.v:8]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/happa2222/316Labs/lab5-1/lab5-1.srcs/sources_1/new/register_logic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_logic
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/happa2222/316Labs/lab5-1/lab5-1.srcs/sim_1/new/RCA_4bits_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RCA_4bits_tb
+WARNING: [VRFC 10-2096] empty statement in sequential block [C:/Users/happa2222/316Labs/lab5-1/lab5-1.srcs/sim_1/new/RCA_4bits_tb.v:24]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/happa2222/316Labs/lab5-1/lab5-1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/sachi/Documents/316Labs/lab3/lab3.srcs/constrs_1/imports/lab3/Basys3_Master.xdc rfile:../../../lab3.srcs/constrs_1/imports/lab3/Basys3_Master.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:18 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN V17 [get_ports {a}]
+set_property src_info {type:XDC file:1 line:23 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN V16 [get_ports {b}]
+set_property src_info {type:XDC file:1 line:59 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN U16 [get_ports {out}]
